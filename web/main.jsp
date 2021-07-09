@@ -19,7 +19,7 @@
             <a href="GoodsAll">进入商品管理页面</a>
         </h2>
         <%
-            session.setAttribute("uid",1);//暂时模拟1号用户登录123
+            session.setAttribute("uid",1);//暂时模拟1号用户登录123456
         %>
         <div>
             商品名称：羽绒服00 <br>
